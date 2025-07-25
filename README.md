@@ -1,2 +1,2 @@
 # daniorerio_behaviour
-Stydies with Danio rerio
+Studies with Danio rerio
